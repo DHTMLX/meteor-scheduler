@@ -4,7 +4,7 @@ Package.describe({
   // Brief, one-line summary of the package.
   summary: 'dhtmlxScheduler is an event calendar that allows adding a Google-like scheduler on a web page.',
   // URL to the Git repository containing the source code for this package.
-  git: '',
+  git: "https://github.com/DHTMLX/meteor-scheduler.git",
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
   documentation: 'README.md'
@@ -21,10 +21,10 @@ Package.onUse(function(api) {
     );
 
     var imagesFolder = "dhtmlx_scheduler/codebase/";
-    api.addFiles(getFilesFromFolder("dhtmlx-scheduler", imagesFolder + "imgs"), "client");
-    api.addFiles(getFilesFromFolder("dhtmlx-scheduler", imagesFolder + "imgs_dhx_terrace"), "client");
-    api.addFiles(getFilesFromFolder("dhtmlx-scheduler", imagesFolder + "imgs_flat"), "client");
-    api.addFiles(getFilesFromFolder("dhtmlx-scheduler", imagesFolder + "imgs_glossy"), "client");
+    api.addFiles(getFilesFromFolder(imagesFolder + "imgs"), "client");
+    api.addFiles(getFilesFromFolder(imagesFolder + "imgs_dhx_terrace"), "client");
+    api.addFiles(getFilesFromFolder(imagesFolder + "imgs_flat"), "client");
+    api.addFiles(getFilesFromFolder(imagesFolder + "imgs_glossy"), "client");
     api.export("scheduler", "client");
 });
 
@@ -34,7 +34,7 @@ Package.onTest(function(api) {
   api.addFiles('scheduler-tests.js');
 });
 
-function getFilesFromFolder(packageName, folder) {
+function getFilesFromFolder(folder) {
     var fs = Npm.require("fs"),
         path = Npm.require("path");
 

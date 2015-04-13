@@ -6,7 +6,7 @@ Allows using [dhtmlxScheduler](http://dhtmlx.com/docs/products/dhtmlxScheduler) 
 How to use
 -----------
 
-- Add the [dhtmlxScheduler package](https://atmospherejs.com/dhtmlx):
+- Add the [dhtmlxScheduler package](https://atmospherejs.com/dhtmlx/scheduler):
 
     ```sh
     meteor add dhtmlx:scheduler
