@@ -1,0 +1,18 @@
+{
+  "name": "scheduler",
+  "version": "4.3.0",
+  "homepage": "http://dhtmlx.com/docs/products/dhtmlxScheduler/",
+  "description": "JavaScript event calendar. Allows to manage events and appointments in different views",
+  "main": "codebase/dhtmlxscheduler.js",
+  "keywords": [
+    "calendar",
+    "scheduler",
+    "dhtmlx",
+    "agenda",
+    "month",
+    "day",
+    "week",
+    "year"
+  ],
+  "license": "GPL"  
+}
