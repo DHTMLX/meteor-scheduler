@@ -33,12 +33,10 @@ How to use
 	      </div>
 	  </div>
 	</body>
-    }
     ```
 
     ```js
-        scheduler.init("scheduler_here", new Date());
-    }
+    scheduler.init("scheduler_here", new Date());
     ```
 
 That is it.
