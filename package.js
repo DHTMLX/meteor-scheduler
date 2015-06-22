@@ -1,6 +1,6 @@
 Package.describe({
   name: 'dhtmlx:scheduler',
-  version: '0.0.1',
+  version: '0.0.2',
   // Brief, one-line summary of the package.
   summary: 'dhtmlxScheduler is an event calendar that allows adding a Google-like scheduler on a web page.',
   // URL to the Git repository containing the source code for this package.
@@ -14,7 +14,7 @@ Package.onUse(function(api) {
   api.versionsFrom('1.1.0.2');
     api.addFiles(
 	[
-	    "dhtmlx_scheduler/codebase/dhtmlxscheduler.js",
+	    "dhtmlx_scheduler/codebase/sources/dhtmlxscheduler.js",
 	    "dhtmlx_scheduler/codebase/dhtmlxscheduler.css"
 	],
 	"client"

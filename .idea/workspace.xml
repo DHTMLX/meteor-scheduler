@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f5e6521-38d6-411f-baa6-1f397d8685de" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/09_api/data/imgs/!_yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/about.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/about_dis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/imgs/dhxlayout_dhx_terrace/bg_def.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxCombo/imgs/bg_selection.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxCombo/imgs/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/books_close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/books_open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/bug_reporting.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/bug_reporting_dis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/but_cut.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/close_dis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxCombo/imgs/combo_select.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxCombo/imgs/combo_select_dhx_black.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxCombo/imgs/combo_select_dhx_blue.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxCombo/imgs/combo_select_dhx_skyblue.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/copy.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/copy_dis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/cut.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/cut_dis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/database.sqlite" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/imgs/databg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_black/dhtmlxmenu_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_blue/dhtmlxmenu_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_black/dhtmlxmenu_chrd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_blue/dhtmlxmenu_chrd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_skyblue/dhtmlxmenu_chrd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_terrace/dhtmlxmenu_chrd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_black/dhtmlxmenu_loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_blue/dhtmlxmenu_loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_skyblue/dhtmlxmenu_loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_terrace/dhtmlxmenu_loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_black/dhtmlxmenu_subar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_blue/dhtmlxmenu_subar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_skyblue/dhtmlxmenu_subar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_terrace/dhtmlxmenu_subar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_black/dhtmlxmenu_subsepbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_blue/dhtmlxmenu_subsepbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_black/dhtmlxmenu_upar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_blue/dhtmlxmenu_upar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_skyblue/dhtmlxmenu_upar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/imgs/dhxlayout_dhx_skyblue/dhxlayout_bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/imgs/dhxlayout_dhx_skyblue/dhxlayout_bg_sb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/imgs/dhxlayout_dhx_terrace/dhxlayout_bg_sb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/imgs/dhxlayout_dhx_skyblue/dhxlayout_btns.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/imgs/dhxlayout_dhx_terrace/dhxlayout_btns.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/imgs/dhxlayout_dhx_skyblue/dhxlayout_collapsedhor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/imgs/dhxlayout_dhx_skyblue/dhxlayout_collapsedver.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/imgs/dhxlayout_dhx_skyblue/dhxlayout_cpanel_btn_dock.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/imgs/dhxlayout_dhx_skyblue/dhxlayout_cpanel_btn_undock.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/imgs/dhxlayout_dhx_skyblue/dhxlayout_drag_hor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/imgs/dhxlayout_dhx_terrace/dhxlayout_drag_hor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/imgs/dhxlayout_dhx_skyblue/dhxlayout_drag_ver.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/imgs/dhxlayout_dhx_terrace/dhxlayout_drag_ver.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/imgs/dhxlayout_dhx_skyblue/dhxlayout_progress.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/imgs/dhxlayout_dhx_terrace/dhxlayout_progress.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/imgs/dhxlayout_dhx_skyblue/dhxlayout_progress_global.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/imgs/dhxlayout_dhx_terrace/dhxlayout_progress_global.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_skyblue/dhxmenu_bg_acccell.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_terrace/dhxmenu_bg_item.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_terrace/dhxmenu_bg_item_sel.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_terrace/dhxmenu_bg_subsep.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_web/dhxmenu_chrd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_web/dhxmenu_loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_web/dhxmenu_subar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_skyblue/dhxmenu_subselbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_web/dhxmenu_subselbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_skyblue/dhxmenu_subsepbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_web/dhxmenu_subsepbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_web/dhxmenu_topbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_skyblue/dhxmenu_topselbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_web/dhxmenu_topselbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_skyblue/dhxmenu_topsepbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_web/dhxmenu_topsepbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/imgs/dhxmenu_dhx_web/dhxmenu_upar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/09_api/data/imgs/dots.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/09_api/data/imgs/fat_lines.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/folderClosed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/folderClosed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/folderClosed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/folderOpen.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/folderOpen.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/folderOpen.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/help.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/help_dis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/imgs/hour_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/iconCheckAll.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/iconCheckAll.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/iconCheckAll.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/iconCheckDis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/iconCheckDis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/iconCheckDis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/iconCheckGray.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/iconCheckGray.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/iconCheckGray.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/iconChecked.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/iconFlag.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/iconGraph.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/iconSound.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/iconText.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/iconText.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/iconTexts.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/iconUncheckAll.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/iconUncheckAll.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/iconUncheckAll.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/iconUncheckDis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/iconUncheckDis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/iconUncheckDis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/iconWrite1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/iconWrite2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/leaf.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/leaf.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/leaf.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/leaf2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/leaf3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/leaf_2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/leaves.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/line.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/line.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/line1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/line1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/line1_rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/line2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/line2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/line2_rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/line3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/line3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/line3_rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/line4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/line4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/line4_rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/lock.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/lock.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/lock.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/09_api/data/imgs/medium_lines.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/minus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/minus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/minus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/minus1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/minus1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/minus2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/minus2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/minus2_rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/minus3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/minus3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/minus3_rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/minus4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/minus4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/minus4_rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/minus5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/minus5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/minus5_rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/minus_ar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/new.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/new_dis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/open_dis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/page_setup.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/page_setup_dis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/paste.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/paste_dis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/plus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/plus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/plus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/plus1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/plus1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/plus2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/plus2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/plus2_rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/plus3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/plus3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/plus3_rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/plus4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/plus4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/plus4_rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/plus5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/plus5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/plus5_rtl.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/plus_ar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/print.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/print_dis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/radio_off.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/radio_off.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/radio_off.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/radio_on.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_dhx_terrace/radio_on.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/radio_on.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/redo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/redo_dis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/save.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/save_as.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/save_as_dis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/save_dis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/select_all.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/select_all_dis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/sky_blue_sel_tree.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/09_api/data/imgs/small_lines.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/tombs.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/imgs/csh_yellowbooks/tombs_open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/undo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/imgs/undo_dis.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/09_api/data/imgs/v_green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/imgs/week_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/01_initialization_loading/01_basic_init.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/07_skins/01_default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/01_dhtmlxMenu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/01_events_coloring.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/11_scales/01_month_ignore.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/01_recurring_events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/05_calendar/01_select.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/01_serialize_xml.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/02_days_coloring.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/09_api/02_dhtmlx_message.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/07_skins/02_glossy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/01_initialization_loading/02_hour_scale_format.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/02_serialize_json.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/11_scales/02_week_ignore.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/05_calendar/02_without_scheduler.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/03_agenda_view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/07_skins/03_classic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/03_dhtmlxLayout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/01_initialization_loading/03_header_format.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/03_hours_coloring.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/05_calendar/03_in_form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/03_serialize_ical.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/11_scales/03_two_work_weeks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/04_datastore.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/07_skins/04_default_alt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/04_month_days_coloring.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/04_serialize_recurring.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/04_year_view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/05_custom_editor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/05_dhtmlxLayout_terrace.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/05_expand_plugin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/07_skins/05_glossy_alt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/01_initialization_loading/05_loading_database.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/09_api/05_mouse_over_highlight.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/05_calendar/05_plain_structure.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/05_standalone_export.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/07_skins/06_classic_alt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/09_api/06_hightlight_and_single_click_create.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/06_jquery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/06_links_plugin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/01_initialization_loading/06_multi_day_events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/06_online_export.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/05_calendar/06_recurring_form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/06_templates.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/07_backbone.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/07_custom_view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/07_skins/07_default_rec.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/09_api/07_highlighted_timespans_month_view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/01_initialization_loading/07_locale_usage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/07_navigation_plugin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/07_online_styles.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/08_bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/08_cookies_plugin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/07_skins/08_glossy_rec.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/01_initialization_loading/08_options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/09_api/08_show_event.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/08_validation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/07_skins/09_classic_rec.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/01_initialization_loading/09_connector_options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/09_api/09_filtering_events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/09_html_templates_plugin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/09_timestep.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/09_api/10_custom_recurring_form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/07_skins/10_default_alt_rec.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/01_initialization_loading/10_loading_database_json.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/10_url_date_plugin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/10_without_toolbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/11_auto_end_date.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/01_initialization_loading/11_connector_options_json.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/07_skins/11_glossy_alt_rec.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/11_pdf_plugin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/01_initialization_loading/12_block_csrf.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/07_skins/12_classic_alt_rec.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/12_full_day_event.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/12_readonly_form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/07_skins/13_flat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/13_multisource.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/13_single_checkbox_section.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/01_initialization_loading/13_touch_ui.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/07_skins/14_flat_alt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/14_radio_buttons_section.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/14_readonly_event.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/15_collision.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/15_combo_select.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/07_skins/15_flat_rec.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/16_custom_form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/07_skins/16_flat_alt_rec.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/16_limitation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/17_lightbox_header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/18_combo_select_from_db.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/19_map_view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/20_multiline_event_bars.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/21_custom_hour_scale.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/21_multiselect_options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/22_multiselect_initial_loading.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/22_opertions_with_lightbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/23_current_time.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/23_map_view_timeframes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/24_cascade_event_display.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/25_color_property.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/26_linked_selects_in_lightbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/26_multi_day_visible.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/27_custom_event_box.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/28_lightbox_default_value.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/29_changing_lightbox_configurations.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/30_lightbox_time_format.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/31_view_more.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/32_resizable_month_events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/backbone/backbone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/backbone.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/base_connector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/chart_connector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/08_shared_events/combined.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/combo_connector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/data/combo_select.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/convert.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/crosslink_connector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/data/data.ical" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/data/data.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/data.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/data/data.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/data_connector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/data/data_r.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/dataprocessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxDataStore/datastore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/dataview_connector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/db_adodb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/db_common.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/db_excel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/db_filesystem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/db_mssql.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/db_mysqli.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/db_oracle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/db_pdo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/db_phpcake.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/db_phpci.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/db_phpyii.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/db_postgre.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/db_sasql.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/db_sqlite.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/db_sqlite3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/db_sqlsrv.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxCombo/dhtmlxcombo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxCombo/dhtmlxcombo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/dhtmlxcommon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/dhtmlxcontainer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/dhtmlxlayout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/dhtmlxlayout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/skins/dhtmlxlayout_dhx_skyblue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxLayout/skins/dhtmlxlayout_dhx_terrace.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/dhtmlxmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/skins/dhtmlxmenu_dhx_black.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/skins/dhtmlxmenu_dhx_blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/skins/dhtmlxmenu_dhx_skyblue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/skins/dhtmlxmenu_dhx_terrace.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxMenu/skins/dhtmlxmenu_dhx_web.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/dhtmlxtree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dhtmlxTree/dhtmlxtree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/dhxmenu.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/docs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/data/dummy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/dump.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/01_initialization_loading/data/events.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/08_shared_events/events.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/01_initialization_loading/data/events.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/data/events.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/data/events.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/data/events.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/05_calendar/data/events.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/07_skins/data/events.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/events.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/11_scales/data/events.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/01_initialization_loading/data/events_json.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/data/events_map_view.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/data/events_multiselect_options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/data/events_multiselect_static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/data/events_rec.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/01_initialization_loading/data/events_safe.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/08_shared_events/events_shared.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/filesystem_item.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/form_connector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/grid_connector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/data/ical_download.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/data/ical_mirror.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/data/ical_writer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/01_initialization_loading/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/02_customization/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/05_calendar/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/07_skins/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/08_shared_events/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/09_api/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/11_scales/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/data/json_download.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/data/json_writer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/keygrid_connector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_ar.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_be.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_be.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_ca.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_cn.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_cs.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_da.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_de.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_el.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_en.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_es.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_fi.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_fr.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_he.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_hu.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_id.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_it.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_jp.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_jp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_nb.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_nl.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_no.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_pl.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_pt.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_be.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_be.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_cn.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_cs.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_da.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_de.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_el.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_en.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_es.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_fi.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_fr.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_it.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_nb.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_nl.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_pl.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_pt.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_ro.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_ru.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_sk.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_sv.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_ua.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/locale_recurring_ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_ro.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_ru.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_si.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_sk.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_sv.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_tr.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_ua.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/locale_ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/mixed_connector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/options_connector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/repeat_template_be.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/repeat_template_cn.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/repeat_template_de.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/repeat_template_el.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/repeat_template_en.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/repeat_template_es.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/repeat_template_fr.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/repeat_template_it.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/repeat_template_nl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/repeat_template_ro.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/repeat_template_ru.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/locale/recurring/repeat_template_sk.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/scheduler_connector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/strategy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/testdata.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/tools.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/10_integration/data/tree.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/tree_connector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/treedatagroup_connector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/treedatamultitable_connector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/treegrid_connector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/treegridgroup_connector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/treegridmultitable_connector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/treegroup_connector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/treemultitable_connector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/01_initialization_loading/data/types.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/data/types.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/01_initialization_loading/data/types.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/01_initialization_loading/data/types_json.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/backbone/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/03_extensions/data/units.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/08_shared_events/user_1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/08_shared_events/user_1_combined.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/08_shared_events/user_2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/data/xml_download.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/data/xml_writer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/04_export/data/xml_writer_r.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/samples/common/connector/xss_filter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/base_connector.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/base_connector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/chart_connector.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/chart_connector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/combo_connector.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/combo_connector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/convert.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/convert.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/crosslink_connector.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/crosslink_connector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/data_connector.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/data_connector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/dataprocessor.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/dataprocessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/dataview_connector.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/dataview_connector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_adodb.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_adodb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_common.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_common.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_excel.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_excel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_filesystem.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_filesystem.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_mssql.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_mssql.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_mysqli.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_mysqli.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_oracle.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_oracle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_pdo.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_pdo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_phpcake.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_phpcake.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_phpci.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_phpci.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_phpyii.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_phpyii.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_postgre.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_postgre.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_sasql.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_sasql.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_sqlite.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_sqlite.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_sqlite3.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_sqlite3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_sqlsrv.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/db_sqlsrv.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/dhtmlxscheduler.css" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/dhtmlxscheduler.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/skins/dhtmlxscheduler.css" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/skins/dhtmlxscheduler.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/dhtmlxscheduler.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/dhtmlxscheduler.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/dhtmlxscheduler.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/dhtmlxscheduler.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/dhtmlxscheduler.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/dhtmlxscheduler.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_active_links.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_active_links.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_active_links.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_active_links.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_active_links.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_active_links.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_agenda_view.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_agenda_view.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_agenda_view.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_agenda_view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_agenda_view.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_agenda_view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_all_timed.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_all_timed.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_all_timed.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_all_timed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_all_timed.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_all_timed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/dhtmlxscheduler_classic.css" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/dhtmlxscheduler_classic.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/skins/dhtmlxscheduler_classic.css" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/skins/dhtmlxscheduler_classic.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_collision.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_collision.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_collision.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_collision.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_collision.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_collision.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_container_autoresize.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_container_autoresize.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_container_autoresize.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_container_autoresize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_container_autoresize.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_container_autoresize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_cookie.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_cookie.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_cookie.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_cookie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_cookie.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_cookie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_editors.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_editors.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_editors.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_editors.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_editors.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_editors.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_expand.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_expand.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_expand.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_expand.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_expand.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_expand.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/dhtmlxscheduler_flat.css" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/dhtmlxscheduler_flat.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/skins/dhtmlxscheduler_flat.css" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/skins/dhtmlxscheduler_flat.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/dhtmlxscheduler_glossy.css" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/dhtmlxscheduler_glossy.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/skins/dhtmlxscheduler_glossy.css" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/skins/dhtmlxscheduler_glossy.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_html_templates.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_html_templates.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_html_templates.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_html_templates.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_html_templates.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_html_templates.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_key_nav.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_key_nav.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_key_nav.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_key_nav.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_key_nav.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_key_nav.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_layer.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_layer.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_layer.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_layer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_layer.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_layer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_limit.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_limit.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_limit.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_limit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_limit.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_limit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_map_view.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_map_view.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_map_view.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_map_view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_map_view.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_map_view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_minical.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_minical.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_minical.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_minical.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_minical.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_minical.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_monthheight.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_monthheight.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_monthheight.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_monthheight.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_monthheight.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_monthheight.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_multiselect.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_multiselect.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_multiselect.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_multiselect.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_multiselect.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_multiselect.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_multisource.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_multisource.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_multisource.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_multisource.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_multisource.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_multisource.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_mvc.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_mvc.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_mvc.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_mvc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_mvc.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_mvc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_offline.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_offline.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_offline.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_offline.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_offline.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_offline.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_outerdrag.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_outerdrag.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_outerdrag.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_outerdrag.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_outerdrag.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_outerdrag.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_pdf.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_pdf.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_pdf.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_pdf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_pdf.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_pdf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_quick_info.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_quick_info.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_quick_info.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_quick_info.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_quick_info.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_quick_info.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_readonly.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_readonly.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_readonly.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_readonly.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_readonly.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_readonly.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_recurring.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_recurring.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_recurring.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_recurring.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_recurring.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_recurring.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_serialize.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_serialize.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_serialize.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_serialize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_serialize.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_serialize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_tooltip.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_tooltip.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_tooltip.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_tooltip.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_tooltip.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_tooltip.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_url.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_url.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_url.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_url.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_url.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_url.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_wp.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_wp.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_wp.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_wp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_wp.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_wp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_year_view.js.map" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_year_view.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_year_view.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/ext/dhtmlxscheduler_year_view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_year_view.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/ext/dhtmlxscheduler_year_view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/filesystem_item.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/filesystem_item.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/form_connector.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/form_connector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/gantt_connector.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/gantt_connector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/grid_config.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/grid_config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/grid_connector.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/grid_connector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/keygrid_connector.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/keygrid_connector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/license.txt" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/license.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_ar.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_ar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_be.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_be.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_ca.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_ca.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_cn.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_cn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_cs.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_cs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_da.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_da.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_de.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_de.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_el.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_el.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_en.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_es.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_es.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_fi.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_fi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_fr.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_fr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_he.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_he.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_hu.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_hu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_id.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_id.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_it.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_it.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_jp.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_jp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_nb.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_nb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_nl.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_nl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_no.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_no.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_pl.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_pl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_pt.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_pt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_be.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_be.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_cn.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_cn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_cs.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_cs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_da.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_da.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_de.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_de.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_el.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_el.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_en.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_es.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_es.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_fi.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_fi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_fr.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_fr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_it.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_it.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_nb.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_nb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_nl.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_nl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_pl.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_pl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_pt.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_pt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_ro.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_ro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_ru.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_ru.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_sk.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_sk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_sv.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_sv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_ua.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/locale_recurring_ua.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_ro.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_ro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_ru.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_ru.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_si.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_si.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_sk.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_sk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_sv.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_sv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_tr.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_tr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_ua.js" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/locale_ua.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/mixed_connector.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/mixed_connector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/options_connector.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/options_connector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.js" afterPath="$PROJECT_DIR$/package.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_be.html" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_be.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_cn.html" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_cn.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_de.html" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_de.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_el.html" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_el.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_en.html" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_en.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_es.html" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_es.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_fr.html" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_fr.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_it.html" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_it.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_nl.html" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_nl.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_ro.html" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_ro.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_ru.html" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_ru.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_sk.html" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/locale/recurring/repeat_template_sk.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/scheduler_connector.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/scheduler_connector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/strategy.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/strategy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/tools.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/tools.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/tree_connector.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/tree_connector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/treedatagroup_connector.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/treedatagroup_connector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/treedatamultitable_connector.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/treedatamultitable_connector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/treegrid_connector.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/treegrid_connector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/treegridgroup_connector.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/treegridgroup_connector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/treegridmultitable_connector.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/treegridmultitable_connector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/treegroup_connector.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/treegroup_connector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/treemultitable_connector.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/treemultitable_connector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/update.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/whatsnew.txt" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/whatsnew.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/xss_filter.php" afterPath="$PROJECT_DIR$/dhtmlx_scheduler/codebase/connector/xss_filter.php" />
+    </list>
+    <ignored path="meteor-scheduler.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="meteor-scheduler" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="package.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.092307694" vertical-offset="324" max-vertical-offset="972">
+              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/dhtmlxscheduler.js" />
+        <option value="$PROJECT_DIR$/package.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="width" value="1368" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meteor-scheduler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="Settings.JavaScript.Bower" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../meteor_dhtmlx_app" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f5e6521-38d6-411f-baa6-1f397d8685de" name="Default" comment="" />
+      <created>1434971138356</created>
+      <option name="number" value="Default" />
+      <updated>1434971138356</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1368" height="743" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1621212" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32744783" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32744783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dhtmlx_scheduler/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="702">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dhtmlx_scheduler/license.txt">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6192">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dhtmlx_scheduler/codebase/sources/dhtmlxscheduler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43373495" vertical-offset="0" max-vertical-offset="113958">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.092307694" vertical-offset="324" max-vertical-offset="972">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
