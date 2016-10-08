@@ -25,7 +25,8 @@ Package.onUse(function(api) {
     api.addFiles(getFilesFromFolder(imagesFolder + "imgs_dhx_terrace"), "client");
     api.addFiles(getFilesFromFolder(imagesFolder + "imgs_flat"), "client");
     api.addFiles(getFilesFromFolder(imagesFolder + "imgs_glossy"), "client");
-    api.export("scheduler", "client");
+    api.export(["scheduler", "getOffset", "getOffsetSum",
+  "getOffsetRect", "getAbsoluteTop", "getAbsoluteLeft"], "client");
 });
 
 Package.onTest(function(api) {
